@@ -54,8 +54,11 @@ const Footer = () => {
               <p>Bidang Statistik & Persandian</p>
               <div className="mt-4 flex gap-4">
                 <a
-                  href="#"
+                  href="https://wakatobikab.go.id/"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="p-2 bg-white/5 rounded-lg hover:bg-white/10 transition"
+                  aria-label="Official Website of Wakatobi Regency"
                 >
                   <Globe size={20} />
                 </a>
@@ -66,10 +69,7 @@ const Footer = () => {
 
         {/* Bottom Bar */}
         <div className="border-t border-white/5 pt-8 text-center text-slate-500 text-xs font-medium uppercase tracking-widest">
-          <p>
-            © 2026 Pemerintah Kabupaten Wakatobi. Dikembangkan "La Ode Taufik
-            Ismail" :D Diskominfo jhony upload datanya..
-          </p>
+          <p>© {new Date().getFullYear()} Pemerintah Kabupaten Wakatobi.</p>
         </div>
       </div>
     </footer>
