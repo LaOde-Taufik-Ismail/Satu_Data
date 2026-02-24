@@ -643,4 +643,164 @@ export const portalData = [
     linkDrive:
       "https://docs.google.com/spreadsheets/d/1VD8dYrUjKzzYs1UlUyIkaTv-Sa5XBWSL/edit?usp=sharing&ouid=105960090463075382550&rtpof=true&sd=true",
   },
+  {
+    id: 33,
+    judul: "Infografis Gambaran Umum Kabupaten Wakatobi 2025",
+    deskripsi: "Gambaran Umum Kabupaten Wakatobi 2025",
+    produsenId: "diskominfo", // Terhubung ke instansiList['Dinas']
+    produsenKategori: "Dinas",
+    tipe: "infografis",
+    kategori: "Gambar Infografis",
+    thumbnail:
+      "https://lh3.googleusercontent.com/d/18E9Kcix0SXy0M8CwKnJ4bAn4dV2t8Fo9=w600-h600",
+    linkDrive:
+      "https://drive.google.com/file/d/18E9Kcix0SXy0M8CwKnJ4bAn4dV2t8Fo9/view?usp=drive_link",
+  },
+  {
+    id: 34,
+    judul: "Infografis Sosial, Kemasyarakatan dan Kesejahteraan",
+    deskripsi: "Infografis Sosial, Kemasyarakatan dan Kesejahteraan",
+    produsenId: "dinsos",
+    produsenKategori: "Dinas",
+    tipe: "infografis",
+    kategori: "Gambar Infografis",
+    thumbnail:
+      "https://lh3.googleusercontent.com/d/1SkXO9raZaom-jx9sr-X08pDY18myqr2f=w600-h600",
+    linkDrive:
+      "https://drive.google.com/file/d/1SkXO9raZaom-jx9sr-X08pDY18myqr2f/view?usp=drive_link",
+  },
+  {
+    id: 35,
+    judul: "Infografis Pertanian dan Ketahanan Pangan",
+    deskripsi: "Infografis Pertanian dan Ketahanan Pangan",
+    produsenId: "pertanian",
+    produsenKategori: "Dinas",
+    tipe: "infografis",
+    kategori: "Gambar Infografis",
+    thumbnail:
+      "https://lh3.googleusercontent.com/d/19ymI7gtkYJPT7ms1Nd0GK9qz-Vsg1Fze=w600-h600",
+    linkDrive:
+      "https://drive.google.com/file/d/19ymI7gtkYJPT7ms1Nd0GK9qz-Vsg1Fze/view?usp=drive_link",
+  },
+  {
+    id: 36,
+    judul: "Infografis Perhubungan dan Infrastruktur",
+    deskripsi: "Infografis Perhubungan dan Infrastruktur",
+    produsenId: "dishub",
+    produsenKategori: "Dinas",
+    tipe: "infografis",
+    kategori: "Gambar Infografis",
+    thumbnail:
+      "https://lh3.googleusercontent.com/d/1h5CqpuIkA5QJKoQhOf0cJpea1P4rbLVn=w600-h600",
+    linkDrive:
+      "https://drive.google.com/file/d/1h5CqpuIkA5QJKoQhOf0cJpea1P4rbLVn/view?usp=drive_link",
+  },
+  {
+    id: 37,
+    judul: "Infografis Perdagangan, Industri, Koperasi dan Modal",
+    deskripsi: "Infografis Perdagangan, Industri, Koperasi dan Modal",
+    produsenId: "perindag",
+    produsenKategori: "Dinas",
+    tipe: "infografis",
+    kategori: "Gambar Infografis",
+    thumbnail:
+      "https://lh3.googleusercontent.com/d/1YnI0F_kjZNB4l3eMGNb12KnotgAsDCy2=w600-h600",
+    linkDrive:
+      "https://drive.google.com/file/d/1YnI0F_kjZNB4l3eMGNb12KnotgAsDCy2/view?usp=drive_link",
+  },
+  {
+    id: 38,
+    judul: "Infografis Keuangan, Pajak dan Retribusi",
+    deskripsi: "Infografis Keuangan, Pajak dan Retribusi",
+    produsenId: "bapenda",
+    produsenKategori: "Badan",
+    tipe: "infografis",
+    kategori: "Gambar Infografis",
+    thumbnail:
+      "https://lh3.googleusercontent.com/d/1hmAsxLpQLGPxK6Zm0ZvqUMRLtCJC5r3G=w600-h600",
+    linkDrive:
+      "https://drive.google.com/file/d/1hmAsxLpQLGPxK6Zm0ZvqUMRLtCJC5r3G/view?usp=drive_link",
+  },
+  {
+    id: 39,
+    judul: "Infografis Penanggulangan Bencana dan Satpol PP",
+    deskripsi: "Infografis Penanggulangan Bencana dan Satpol PP",
+    produsenId: "bpbd",
+    produsenKategori: "Badan",
+    tipe: "infografis",
+    kategori: "Gambar Infografis",
+    thumbnail:
+      "https://lh3.googleusercontent.com/d/1_1_Pu74Q4NvLHgCrFcqshOoQjRsAI0JM=w600-h600",
+    linkDrive:
+      "https://drive.google.com/file/d/1_1_Pu74Q4NvLHgCrFcqshOoQjRsAI0JM/view?usp=drive_link",
+  },
+  {
+    id: 40,
+    judul: "Infografis Telekomunikasi, Pariwisata dan BKPSDMD",
+    deskripsi: "Infografis Telekomunikasi, Pariwisata dan BKPSDMD",
+    produsenId: "diskominfo",
+    produsenKategori: "Dinas",
+    tipe: "infografis",
+    kategori: "Gambar Infografis",
+    thumbnail:
+      "https://lh3.googleusercontent.com/d/1UMF9-wiO4kOK_ycOP3Tms-A9GEb1xd4F=w600-h600",
+    linkDrive:
+      "https://drive.google.com/file/d/1UMF9-wiO4kOK_ycOP3Tms-A9GEb1xd4F/view?usp=drive_link",
+  },
+  {
+    id: 41,
+    judul: "Infografis Sekretariat Daerah Kabupaten Wakatobi",
+    deskripsi: "Infografis Sekretariat Daerah Kabupaten Wakatobi",
+    produsenId: "setda",
+    produsenKategori: "Sekretariat",
+    tipe: "infografis",
+    kategori: "Gambar Infografis",
+    thumbnail:
+      "https://lh3.googleusercontent.com/d/17rZJ69hDc9eH13EFOj6RFq9OfIm97XPd=w600-h600",
+    linkDrive:
+      "https://drive.google.com/file/d/17rZJ69hDc9eH13EFOj6RFq9OfIm97XPd/view?usp=drive_link",
+  },
+  {
+    id: 42,
+    judul: "Infografis Inspektorat Daerah",
+    deskripsi: "Infografis Inspektorat Daerah",
+    produsenId: "inspektorat",
+    produsenKategori: "Inspektorat",
+    tipe: "infografis",
+    kategori: "Gambar Infografis",
+    thumbnail:
+      "https://lh3.googleusercontent.com/d/1E6VWSDrVLPYLIFRkq0TYAh-JLFLklFz5=w600-h600",
+    linkDrive:
+      "https://drive.google.com/file/d/1E6VWSDrVLPYLIFRkq0TYAh-JLFLklFz5/view?usp=drive_link",
+  },
+  {
+    id: 43,
+    judul:
+      "Infografis Sekretariat Dewan Perwakilan Rakyat Daerah Kabupaten Wakatobi",
+    deskripsi:
+      "Infografis Sekretariat Dewan Perwakilan Rakyat Daerah Kabupaten Wakatobi",
+    produsenId: "setdprd",
+    produsenKategori: "Sekretariat",
+    tipe: "infografis",
+    kategori: "Gambar Infografis",
+    thumbnail:
+      "https://lh3.googleusercontent.com/d/1e9BP-wBlX-FdWbWxO-cY-MEIQDncSD9U=w600-h600",
+    linkDrive:
+      "https://drive.google.com/file/d/1e9BP-wBlX-FdWbWxO-cY-MEIQDncSD9U/view?usp=drive_link",
+  },
+  {
+    id: 44,
+    judul:
+      "Infografis Badan Perencanaan, Penelitian, dan Pengembangan Daerah Kabupaten Wakatobi",
+    deskripsi:
+      "Infografis Badan Perencanaan, Penelitian, dan Pengembangan Daerah Kabupaten Wakatobi",
+    produsenId: "bappeda",
+    produsenKategori: "Badan",
+    tipe: "infografis",
+    kategori: "Gambar Infografis",
+    thumbnail:
+      "https://lh3.googleusercontent.com/d/1KW0iaIlXGSwqYP60U1HVIxe4KLXNAuXB=w600-h600",
+    linkDrive:
+      "https://drive.google.com/file/d/1KW0iaIlXGSwqYP60U1HVIxe4KLXNAuXB/view?usp=drive_link",
+  },
 ];
