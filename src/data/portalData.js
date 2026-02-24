@@ -4,12 +4,10 @@ export const produsenCategories = [
   "Badan",
   "Walidata",
   "Admin",
-  "Kantor",
   "Rumah Sakit",
   "Unit Layanan",
   "Sekretariat",
   "Kecamatan",
-  "Satuan",
   "Inspektorat",
 ];
 
@@ -158,6 +156,11 @@ export const instansiList = {
       nama: "Badan Penanggulangan Bencana Daerah",
       logo: "https://via.placeholder.com/150",
     },
+    {
+      id: "satpolppdamkar",
+      nama: "Satuan Polisi Pamong Praja dan Pemadam Kebakaran",
+      logo: "https://via.placeholder.com/150",
+    },
   ],
   Kecamatan: [
     {
@@ -166,8 +169,18 @@ export const instansiList = {
       logo: "https://via.placeholder.com/150",
     },
     {
+      id: "kec-wangi-wangi-selatan",
+      nama: "Kecamatan Wangi-Wangi Selatan",
+      logo: "https://via.placeholder.com/150",
+    },
+    {
       id: "kec-kaledupa",
       nama: "Kecamatan Kaledupa",
+      logo: "https://via.placeholder.com/150",
+    },
+    {
+      id: "kec-kaledupa-selatan",
+      nama: "Kecamatan Kaledupa Selatan",
       logo: "https://via.placeholder.com/150",
     },
     {
@@ -200,13 +213,7 @@ export const instansiList = {
       logo: "https://via.placeholder.com/150",
     },
   ],
-  Satuan: [
-    {
-      id: "satpolppdamkar",
-      nama: "Satuan Polisi Pamong Praja dan Pemadam Kebakaran",
-      logo: "https://via.placeholder.com/150",
-    },
-  ],
+
   Inspektorat: [
     {
       id: "inspektorat",
